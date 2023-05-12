@@ -1,0 +1,6 @@
+# Crawling images from a website
+/images
+/ml/images
+
+# Log
+/ml/logs
