@@ -35,7 +35,7 @@ conda install -c hellock icrawler
 1. Clone the repository
 
    ```bash:
-   git clone https://github.com/kagami-tsukimura/create_movie.git
+   git clone https://github.com/kagami-tsukimura/create-movie.git
    ```
 
 1. For the `pip` execution environment, import the following as needed.
